@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Gideon Buba <br><br>Passionate Front-End Web Developer | Creative Problem Solver<br><br>🌐 Transforming Ideas into User-Friendly Experiences<br>🎨 Crafting Beautiful and Intuitive User Interfaces<br>💡 Exploring the Intersection of Design and Code<br><br>As a dedicated front-end web developer, I thrive on turning concepts into reality through elegant and efficient code. My journey involves blending creativity with technical skills to build seamless web applications that leave a lasting impression. With a strong foundation in HTML, CSS, and JavaScript, I love to experiment with cutting-edge frameworks and libraries to create engaging and responsive user interfaces.<br><br>Let's collaborate and build something amazing together! <br>
+Hi there! 👋 I'm Gideon Buba <br><br>Passionate Front-End Web Developer | Creative Problem Solver<br><br>🌐 Transforming Ideas into User-Friendly Experiences<br>🎨 Crafting Beautiful and Intuitive User Interfaces<br>💡 Exploring the Intersection of Design and Code<br><br>Let's collaborate and build something amazing together! <br>
 
 
 ## 🌐 Socials:
